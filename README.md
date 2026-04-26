@@ -164,28 +164,4 @@ The Adaptive Ecological Graph Fusion Architecture (AEGFA) is the core algorithmi
 
 ---
 
-## Authors
 
-| Name | Role |
-|---|---|
-| Anjum Rouf | Faculty |
-| Sneha Pandey | Student |
-| Mohd. Faisal | Student |
-| Anuja Sharma | Student |
-| Muli Sahithi Reddy | Student |
-| Anurag Singh Yadav | Student |
-| Rahul Mishra | Student |
-
-School of Computer Science and Engineering, Lovely Professional University, Phagwara, India
-
----
-
-## Acknowledgments
-
-This project was developed as part of the Capstone Research Program at Lovely Professional University under the guidance of faculty advisor Anjum Rouf. Oceanographic baselines and environmental data references are drawn from NOAA, NASA MODIS, Copernicus Marine Service, and the Argo Float program.
-
----
-
-## License
-
-All rights reserved. This project is part of an academic research submission and is not licensed for redistribution without permission from the authors.
