@@ -1,7 +1,7 @@
 # Ocean.Net — AI-Powered Conversational System for Marine Knowledge Exploration
 
 > **Deployed Application**: [ocean-intelligence-liart.vercel.app](https://ocean-intelligence-liart.vercel.app)
-> **Capstone Research Project** | Lovely Professional University, Phagwara, India
+> **Project** | Lovely Professional University, Phagwara, India
 
 Marine ecosystems generate vast amounts of heterogeneous data across oceanographic observations, fisheries monitoring, and biodiversity surveys. However, accessing and interpreting this knowledge typically requires domain expertise. Ocean.Net addresses this gap by providing a full-stack web application that combines Natural Language Processing, Machine Learning, and interactive data visualization to make marine science knowledge accessible through a conversational AI interface. The system is built on the Adaptive Ecological Graph Fusion Architecture (AEGFA), which integrates environmental, fisheries, and biodiversity data into a unified predictive framework achieving 0.92 average prediction accuracy.
 
